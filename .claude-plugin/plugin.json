@@ -7,7 +7,7 @@
     "name": "Decode",
     "email": "support@decode.dev"
   },
-  "repository": "https://github.com/decode-tools/agent-plugins",
+  "repository": "https://github.com/decodetool/agent-plugins",
   "license": "MIT",
   "keywords": [
     "paper",
