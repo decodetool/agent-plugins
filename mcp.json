@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "decode": {
+      "command": "/Applications/Decode Alpha.app/Contents/Resources/mcp/decode-mcp-stdio",
+      "args": [],
+      "env": {},
+      "type": "stdio"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "decode-desktop",
+
+  "description": "A whiteboard that Claude can read and write to — plan, design, and build software",
+  "version": "0.1.0",
+  "author": {
+    "name": "Decode",
+    "email": "support@decode.dev"
+  },
+  "repository": "https://github.com/decode-tools/agent-plugins",
+  "license": "MIT",
+  "keywords": [
+    "paper",
+    "design",
+    "ui",
+    "canvas",
+    "html",
+    "css",
+    "design-to-code",
+    "code-to-design",
+    "mcp",
+    "design-system"
+  ],
+  "mcpServers": "./mcp.json"
+}
