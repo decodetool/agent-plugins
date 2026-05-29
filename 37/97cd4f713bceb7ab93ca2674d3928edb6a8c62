@@ -1,0 +1,14 @@
+plugins/decode-desktop/mcp.json
+  h_0dbcbba47c7061 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "3797cd4f713bceb7ab93ca2674d3928edb6a8c62",
+  "prompts": {},
+  "humans": {
+    "h_0dbcbba47c7061": {
+      "author": "Francois Laberge <francoislaberge@gmail.com>"
+    }
+  }
+}
