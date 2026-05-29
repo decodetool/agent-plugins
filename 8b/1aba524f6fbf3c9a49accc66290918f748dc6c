@@ -1,0 +1,16 @@
+.claude-plugin/marketplace.json
+  h_0dbcbba47c7061 9
+plugins/decode-desktop/.claude-plugin/plugin.json
+  h_0dbcbba47c7061 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "8b1aba524f6fbf3c9a49accc66290918f748dc6c",
+  "prompts": {},
+  "humans": {
+    "h_0dbcbba47c7061": {
+      "author": "Francois Laberge <francoislaberge@gmail.com>"
+    }
+  }
+}
