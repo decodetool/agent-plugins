@@ -1,0 +1,18 @@
+{
+  "name": "decode",
+  "owner": {
+    "name": "Decode",
+    "email": "support@decode.dev"
+  },
+  "metadata": {
+    "description": "Whiteboard, plan, and design on a canvas that Claude can read and write to — built on web standards.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "decode-desktop",
+      "source": ".claude-plugin/plugin.json",
+      "description": "Connect to Decode Desktop using its MCP server."
+    }
+  ]
+}
