@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "decode-desktop",
-      "source": "./.claude-plugin/plugin.json",
+      "source": "./plugins/decode-desktop",
       "description": "Connect to Decode Desktop using its MCP server."
     }
   ]
