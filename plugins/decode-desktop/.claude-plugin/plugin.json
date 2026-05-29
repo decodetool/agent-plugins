@@ -1,8 +1,7 @@
 {
   "name": "decode-desktop",
-
   "description": "A whiteboard that Claude can read and write to — plan, design, and build software",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "Decode",
     "email": "support@decode.dev"
